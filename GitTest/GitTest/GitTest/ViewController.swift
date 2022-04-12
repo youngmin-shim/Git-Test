@@ -13,11 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("두번째 커밋")
         print("sample1")
-<<<<<<< HEAD
         print("main 세번째 커밋")
-=======
         print("sample2")
->>>>>>> db4d5f4 (sample1 second commit)
+        print("asd")
     }
 
 
