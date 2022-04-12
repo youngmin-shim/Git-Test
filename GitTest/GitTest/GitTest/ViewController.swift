@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         print("asd")
         print("update")
         print("asd")
+        print("asdasdasd")
     }
 }
 
