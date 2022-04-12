@@ -16,9 +16,8 @@ class ViewController: UIViewController {
         print("main 세번째 커밋")
         print("sample2")
         print("asd")
-        print("bsd")
+        print("update")
+        print("asd")
     }
-
-
 }
 
