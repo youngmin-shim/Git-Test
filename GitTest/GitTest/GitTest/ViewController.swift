@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("두번째 커밋")
+        print("main 세번째 커밋")
     }
 
 
