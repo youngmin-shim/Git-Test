@@ -16,6 +16,7 @@
 		23628E09280548020091B2A6 /* GitTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23628E08280548020091B2A6 /* GitTestTests.swift */; };
 		23628E13280548030091B2A6 /* GitTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23628E12280548030091B2A6 /* GitTestUITests.swift */; };
 		23628E15280548030091B2A6 /* GitTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23628E14280548030091B2A6 /* GitTestUITestsLaunchTests.swift */; };
+		23628E222805A6D70091B2A6 /* mainSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23628E212805A6D60091B2A6 /* mainSample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		23628E0E280548030091B2A6 /* GitTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		23628E12280548030091B2A6 /* GitTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestUITests.swift; sourceTree = "<group>"; };
 		23628E14280548030091B2A6 /* GitTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		23628E212805A6D60091B2A6 /* mainSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainSample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				23628DF1280548010091B2A6 /* AppDelegate.swift */,
 				23628DF3280548010091B2A6 /* SceneDelegate.swift */,
+				23628E212805A6D60091B2A6 /* mainSample.swift */,
 				23628DF5280548010091B2A6 /* ViewController.swift */,
 				23628DF7280548010091B2A6 /* Main.storyboard */,
 				23628DFA280548020091B2A6 /* Assets.xcassets */,
@@ -260,6 +263,7 @@
 			files = (
 				23628DF6280548010091B2A6 /* ViewController.swift in Sources */,
 				23628DF2280548010091B2A6 /* AppDelegate.swift in Sources */,
+				23628E222805A6D70091B2A6 /* mainSample.swift in Sources */,
 				23628DF4280548010091B2A6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
