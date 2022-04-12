@@ -25,6 +25,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     func sceneWillResignActive(_ scene: UIScene) {
         print("squash branch 111111")
         print("interactive-rebase-push-force1")
+        print("interactive-rebase-push-force2")
     }
 
     func sceneWillEnterForeground(_ scene: UIScene) {
