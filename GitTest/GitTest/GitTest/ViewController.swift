@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         print("asd")
         print("asdasdasd")
         print("asdasdasd")
+        print("영민이가 변경함")
     }
 }
 
